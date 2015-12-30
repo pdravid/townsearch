@@ -1,0 +1,14 @@
+<script type="application/javascript">
+			var myCountdown1 = new Countdown({
+							year	: 2015, 
+							month	: 2, 
+							day		: 15, 
+							hour	: 9,
+							ampm	: "am",
+							minute	: 0, 
+							second	: 0		// <- no comma on last item!!
+									//rangeHi:"day",
+									//style:"flip"	// <- no comma on last item!
+									});
+
+</script>
